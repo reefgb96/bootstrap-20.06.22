@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400&display=swap");
+* {
+  font-family: "Montserrat", sans-serif;
+}
+
+.bg-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+}
+
+.bg {
+  background-color: rgba(230, 100, 100, 0.3137254902);
+}
+
+.space {
+  height: 120px;
+  margin-top: -6px;
+  background-color: #fbfaf6;
+}
+
+.quote {
+  background-color: rgba(230, 100, 100, 0.3137254902);
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.col h3 {
+  margin-bottom: 50px;
+}
+
+.disc {
+  width: 40%;
+}
+
+.tab-content div video {
+  height: 30vh;
+}
+
+.tapaware {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cta button {
+  background-color: #dff8d7;
+  color: #223342;
+  border: none;
+}
+
+.cta button:hover {
+  background-color: #bcff88;
+  color: #223342;
+}
+
+.hero {
+  height: 100vh;
+}/*# sourceMappingURL=style.css.map */
